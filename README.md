@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do meu currículo profissional online! Este projeto é uma página web responsiva e minimalista, desenvolvida com foco em performance e exportação perfeita para PDF, apresentando minha trajetória como **Desenvolvedor Front-End**.
 
-🔗 **[Acesse o projeto ao vivo aqui]()** 
+🔗 **[Acesse o projeto ao vivo aqui](https://curriculolucas.ferreiradev.com/)** 
 
 ## 🎯 Sobre o Projeto
 
