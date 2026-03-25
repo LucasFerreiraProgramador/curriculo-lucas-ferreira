@@ -13,7 +13,7 @@ Criei este currículo através de código para ter total controle sobre o design
 - **HTML5** (Estrutura semântica e acessível)
 - **CSS3** (Flexbox, Grid, Media Queries e customização avançada com `@media print`)
 
-## ✨ Funcionalidades e Diferenciais
+## ✨ Funcionalidades e Diferenciais  
 
 - 📱 **Design Responsivo:** Layout adaptável para Desktops, Tablets e Smartphones.
 - 🖨️ **Otimizado para Impressão (PDF):** Estilização específica configurada para gerar um PDF limpo, cravado em 1 página A4, ocultando elementos desnecessários na hora da exportação.
